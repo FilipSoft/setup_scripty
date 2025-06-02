@@ -19,6 +19,7 @@ OPTIONS=(
     "gimp" "Image manipulation software" OFF
     "timeshift" "Desktop backup tool" OFF
     "jetbrains-toolbox" "A tool used to simplify instalation and use of jetbrains software" OFF
+    "lutris" "all in one gaming platform"
 )
 
 # Show the menu
